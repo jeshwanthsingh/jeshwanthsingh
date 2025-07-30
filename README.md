@@ -39,13 +39,6 @@ I’m a Computer Science student at **San Francisco State University**, passiona
 
 ---
 
-## 📈 GitHub Stats
-
-![Jeshwanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeshwanthsingh&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeshwanthsingh&layout=compact&theme=tokyonight)
-
----
-
 ## 📬 Let's Connect
 
 - 🌐 [Portfolio](https://jeshwanthsingh.github.io/my-portfolio/)
