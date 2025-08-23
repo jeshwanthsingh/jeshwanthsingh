@@ -25,7 +25,7 @@ My projects have supported **25K+ users**, cut deployment times by **90%**, and 
 
 ---
 
-### 👗 [AI-Powered Digital Closet](https://github.com/jeshwanthsingh/Digital-Closet)
+### 👗 [AI-Powered Digital Closet](https://github.com/jeshwanthsingh/AI-Powered-Digital-Closet)
 > *TensorFlow • OpenCV • FastAPI • AWS Lambda • Redis • React.js*
 - Achieved **P99 inference <180ms** with serverless API + Redis caching
 - Improved outfit-classification accuracy to **94%** with aggressive data augmentation
