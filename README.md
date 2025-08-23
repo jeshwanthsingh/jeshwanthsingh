@@ -9,7 +9,7 @@ My projects have supported **25K+ users**, cut deployment times by **90%**, and 
 
 ## 🚀 Featured Projects
 
-### 🛰️ [Kubernetes Observability Engine](https://github.com/jeshwanthsingh/k8s-observability-engine)
+### 🛰️ [Kubernetes Observability Engine](https://github.com/jeshwanthsingh/observability-project)
 > *Prometheus • Grafana • Loki • Tempo • OpenTelemetry • Terraform • Helm • Go • Python*
 - **90% faster** full-stack setup using Terraform + Helm “one-click” deployment
 - Integrated OpenTelemetry for **100% trace + log correlation** across services
