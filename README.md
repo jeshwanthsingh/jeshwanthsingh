@@ -17,7 +17,7 @@ My projects have supported **25K+ users**, cut deployment times by **90%**, and 
 
 ---
 
-### 📚 [Digital Library Backend](https://github.com/jeshwanthsingh/Digital-Library-Backend)
+### 📚 [Digital Library Backend](https://github.com/jeshwanthsingh/Digital-Library-Backend-with-CI-CD)
 > *FastAPI • PostgreSQL • Docker • AWS EC2 • GitHub Actions • Prometheus • Grafana*
 - Delivered **99.95% uptime** for 25K+ users with HA FastAPI microservices
 - Reduced P95 API latency to **<45ms** via schema redesign + advanced indexing
