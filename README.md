@@ -45,7 +45,7 @@ My projects have supported **25K+ users**, cut deployment times by **90%**, and 
 ---
 
 ## 📬 Let’s Connect
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://jeshwanthsingh.github.io/my-portfolio/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://www.jeshwanth.com/about)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jeshwanthsingh23/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/jeshwanthsingh)  
 📧 **Email:** [jeshwanthsingh23@gmail.com](mailto:jeshwanthsingh23@gmail.com)
