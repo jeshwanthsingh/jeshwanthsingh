@@ -3,7 +3,7 @@
 **Backend & Distributed Systems Engineer**  
 San Francisco, CA  
 [jeshwanthsingh23@gmail.com](mailto:jeshwanthsingh23@gmail.com) • [+1 (408) 823-4412](tel:+14088234412)  
-[LinkedIn](https://www.linkedin.com/in/jeshwanthsingh23) • [GitHub](https://github.com/jeshwanthsingh) • [Portfolio](https://jeshwanthsingh.github.io/my-portfolio/)
+[LinkedIn](https://www.linkedin.com/in/jeshwanthsingh23) • [GitHub](https://github.com/jeshwanthsingh) • [Portfolio]([https://jeshwanthsingh.github.io/my-portfolio/](https://www.jeshwanth.com/))
 
 ## Summary
 Upcoming 2026 CS graduate passionate about building scalable, reliable backend systems and cloud infrastructure.  
