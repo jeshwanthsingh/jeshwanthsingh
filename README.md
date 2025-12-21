@@ -1,55 +1,38 @@
-# 👋 Hi, I’m Jeshwanth Singh
+# Jeshwanth Singh
+**Backend & Distributed Systems Engineer | Go · Python · Kubernetes · Cloud Infrastructure**  
+San Francisco, CA | [LinkedIn](https://www.linkedin.com/in/jeshwanthsingh23) | [Portfolio]([https://jeshwanthsingh.github.io/my-portfolio/](https://www.jeshwanth.com/)) | [Email](mailto:jeshwanthsingh23@gmail.com)
 
-💻 **Software Engineer | Backend • Cloud • Infra • SRE**
+Upcoming 2026 CS graduate passionate about building reliable, scalable backend systems and production-ready infrastructure. Experienced in distributed systems, observability, and cloud automation—delivered 99.9%+ uptime for 25K+ users, reduced latency by up to 60%, and automated deployments cutting setup time by 90%.
 
-I’m a Computer Science senior at **San Francisco State University** who builds **reliable, scalable backend systems** and **production-ready infrastructure**.  
-My projects have supported **25K+ users**, cut deployment times by **90%**, and reduced incident response time by **30%** through automation, monitoring, and performance tuning.
+### Featured Projects
+#### Kubernetes Observability Engine  
+**Stack:** Go, Python, Kubernetes, Prometheus, Grafana, Loki, Tempo, OpenTelemetry, Terraform, Helm  
+- One-click deployment with Terraform + Helm → 90% faster full-stack setup  
+- 100% trace + log correlation across microservices using OpenTelemetry  
+- Custom Grafana dashboards + k6 load tests simulating 10K+ concurrent users  
 
----
+#### Digital Library Backend  
+**Stack:** FastAPI, PostgreSQL, Redis, Docker, Kubernetes, AWS EC2, GitHub Actions, Prometheus  
+- HA microservices supporting 25K+ users with 99.95% uptime  
+- Reduced P95 latency to <45ms via schema redesign and indexing  
+- Automated CI/CD + test gates → doubled release frequency  
 
-## 🚀 Featured Projects
+#### AI-Powered Digital Closet  
+**Stack:** TensorFlow, OpenCV, FastAPI, AWS Lambda, Redis, React.js  
+- Serverless API with Redis caching → P99 inference <180ms  
+- 94% outfit-classification accuracy with data augmentation  
+- 50% engagement increase via real-time AI recommendations  
 
-### 🛰️ [Kubernetes Observability Engine](https://github.com/jeshwanthsingh/observability-project)
-> *Prometheus • Grafana • Loki • Tempo • OpenTelemetry • Terraform • Helm • Go • Python*
-- **90% faster** full-stack setup using Terraform + Helm “one-click” deployment
-- Integrated OpenTelemetry for **100% trace + log correlation** across services
-- Built 3 custom Grafana dashboards & k6 load tests simulating 10K+ concurrent users
+### Tech Stack
+- **Languages:** Go, Python, Java, C++, JavaScript, SQL, Bash  
+- **Cloud & Infra:** AWS (EC2, Lambda, EKS, S3), GCP (GKE, Pub/Sub), Kubernetes, Docker, Terraform, Helm  
+- **Observability:** Prometheus, Grafana, Loki, Tempo, OpenTelemetry, Datadog  
+- **Backend & Distributed:** Microservices, gRPC, Kafka, Redis, PostgreSQL, Sharding, Concurrency  
+- **CI/CD & Tools:** GitHub Actions, Jenkins, Ansible, Linux (RHEL/Ubuntu/SLES)  
 
----
+### Let's Connect!
+- Actively seeking **Backend, SRE, and Cloud Infrastructure roles** at scale-driven teams (Netflix, Tesla, Microsoft, etc.)  
+- Open to sharing code samples, walking through projects, or discussing distributed systems challenges  
+- Feel free to reach out: jeshwanthsingh23@gmail.com or LinkedIn  
 
-### 📚 [Digital Library Backend](https://github.com/jeshwanthsingh/Digital-Library-Backend-with-CI-CD)
-> *FastAPI • PostgreSQL • Docker • AWS EC2 • GitHub Actions • Prometheus • Grafana*
-- Delivered **99.95% uptime** for 25K+ users with HA FastAPI microservices
-- Reduced P95 API latency to **<45ms** via schema redesign + advanced indexing
-- Doubled release frequency with automated CI/CD + test-gate enforcement
-
----
-
-### 👗 [AI-Powered Digital Closet](https://github.com/jeshwanthsingh/AI-Powered-Digital-Closet)
-> *TensorFlow • OpenCV • FastAPI • AWS Lambda • Redis • React.js*
-- Achieved **P99 inference <180ms** with serverless API + Redis caching
-- Improved outfit-classification accuracy to **94%** with aggressive data augmentation
-- Increased engagement by **50%** with real-time, AI-driven outfit suggestions
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:** Python, Java, Go, JavaScript, SQL, C, Bash  
-**Cloud & Infra:** AWS (EC2, Lambda, S3, VPC, CloudWatch), Kubernetes, Docker, Terraform, Helm  
-**Observability:** Prometheus, Grafana, Loki, Tempo, OpenTelemetry  
-**Frameworks:** FastAPI, React.js, TensorFlow, OpenCV  
-**Databases & Caching:** PostgreSQL, Redis, MongoDB  
-**CI/CD & Tools:** GitHub Actions, Nginx, UNIX/Linux, Git  
-
----
-
-## 📬 Let’s Connect
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://www.jeshwanth.com/about)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jeshwanthsingh23/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/jeshwanthsingh)  
-📧 **Email:** [jeshwanthsingh23@gmail.com](mailto:jeshwanthsingh23@gmail.com)
-
----
-
-⚡ *Actively seeking Backend/SRE opportunities — open to sharing code samples or walking through these projects live.*
+Thanks for visiting! 🚀
