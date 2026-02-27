@@ -1,17 +1,5 @@
 <div align="center">
 
-```
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-░                                                      ░
-░   ░░░░  ░░░░░  ░░░░░  ░░   ░  ░░   ░  ░░░  ░░   ░  ░
-░     ░   ░      ░      ░░   ░  ░░   ░  ░  ░  ░░  ░  ░
-░     ░   ░░░░░  ░░░░░  ░ ░  ░  ░ ░  ░  ░░░░  ░ ░ ░  ░
-░     ░   ░      ░      ░  ░ ░  ░  ░ ░  ░  ░  ░  ░░  ░
-░   ░░░░  ░░░░░  ░░░░░  ░   ░░  ░   ░░  ░  ░  ░   ░  ░
-░                                                      ░
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-```
-
 # hey, i'm jeshwanth 👋
 
 **backend engineer** · distributed systems · llm applications · san francisco
@@ -148,18 +136,6 @@ up is a liability, not a feature.
 [![Azure](https://img.shields.io/badge/Azure_Fundamentals-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
 [![Datadog](https://img.shields.io/badge/Datadog-Certified_Fundamentals-632CA6?style=for-the-badge&logo=datadog&logoColor=white)](https://www.datadoghq.com/)
 [![GCP](https://img.shields.io/badge/Google_Cloud-Fundamentals-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
-
-</div>
-
----
-
-### 📊 activity
-
-<div align="center">
-
-[![streak](https://github-readme-streak-stats.herokuapp.com?user=jeshwanthsingh&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35)](https://github.com/jeshwanthsingh)
-
-[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeshwanthsingh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=C9D1D9)](https://github.com/jeshwanthsingh)
 
 </div>
 
