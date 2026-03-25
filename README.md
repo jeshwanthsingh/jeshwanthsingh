@@ -85,8 +85,8 @@ Because containers aren't enough.
 ### 🚀 projects
 | project | what it does | stack | status |
 |---------|-------------|-------|--------|
-| [**Aegis: MicroVM Execution Runtime**](https://github.com/jeshwanthsingh) | Sandboxes AI-generated code in ephemeral Firecracker VMs · custom PID 1 · sub-150ms cold boots · fork bombs terminate cleanly | Go · Firecracker · KVM · cgroups v2 · overlayfs · virtio-vsock | `active` |
-| [**Distributed Telemetry & Chaos Platform**](https://github.com/jeshwanthsingh) | Injects broker crashes, latency spikes, saturation events · measures real recovery behavior · anomaly detection over streaming signals | Go · Python · Kafka · gRPC · Kubernetes · Prometheus · OpenTelemetry | `complete` |
+| [**Aegis: MicroVM Execution Runtime**](https://github.com/jeshwanthsingh/Aegis) | Sandboxes AI-generated code in ephemeral Firecracker VMs · custom PID 1 · sub-150ms cold boots · fork bombs terminate cleanly | Go · Firecracker · KVM · cgroups v2 · overlayfs · virtio-vsock | `active` |
+| [**Distributed Telemetry & Chaos Platform**](https://github.com/jeshwanthsingh/Edge-Observatory) | Injects broker crashes, latency spikes, saturation events · measures real recovery behavior · anomaly detection over streaming signals | Go · Python · Kafka · gRPC · Kubernetes · Prometheus · OpenTelemetry | `complete` |
 | [**Fraud Detection Service**](https://github.com/jeshwanthsingh) | Async transaction scoring · velocity rules · burst traffic handling · prevents duplicate processing under load | Python · Kafka · PostgreSQL · AWS | `complete` |
 | [**K8s Observability Platform**](https://github.com/jeshwanthsingh/observability-project) | SLO-aligned alerting · failure simulation · MTTD reduction across distributed services | Kubernetes · Prometheus · Grafana · AWS | `complete` |
 
