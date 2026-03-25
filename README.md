@@ -32,8 +32,6 @@ jeshwanth = {
 ---
 
 ### 🔥 where i've shipped things
-
-### 🔥 where i've shipped things
 <table>
 <tr>
 <td width="50%">
@@ -91,8 +89,6 @@ Because containers aren't enough.
 | [**K8s Observability Platform**](https://github.com/jeshwanthsingh/observability-project) | SLO-aligned alerting · failure simulation · MTTD reduction across distributed services | Kubernetes · Prometheus · Grafana · AWS | `complete` |
 
 ---
-
-### 🛠 stack
 
 ### 🛠 stack
 <div align="center">
