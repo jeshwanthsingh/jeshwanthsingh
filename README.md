@@ -16,23 +16,26 @@
 
 ### About me
 
-```go
-type Engineer struct {
-    Name      string
-    Base      string
-    Education string
-    Languages []string
-    Focus     []string
-    Building  []string
-}
-
-var me = Engineer{
+```var me = Engineer{
     Name:      "Jeshwanth Singh",
     Base:      "San Francisco, CA",
     Education: "Recent CS graduate from SFSU",
-    Languages: []string{"Go", "C++", "Python", "TypeScript"},
-    Focus:     []string{"Distributed Systems", "Runtime Security", "AI Infrastructure"},
-    Building:  []string{"Aegis", "Unfoolable", "MuseGuard"},
+    Languages: []string{
+        "Go",
+        "C++",
+        "Python",
+        "TypeScript",
+    },
+    Focus: []string{
+        "Distributed Systems",
+        "Runtime Security",
+        "AI Infrastructure",
+    },
+    Building: []string{
+        "Aegis",
+        "Unfoolable",
+        "MuseGuard",
+    },
 }
 ```
 
